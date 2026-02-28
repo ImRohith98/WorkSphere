@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="500" viewBox="0 0 600 500">
+<!--Transparent Background-->
+<!--Cyan Circle-->
+  <circle cx="290" cy="200" r="120" fill="#4CC3D9"/>
+<!--Pink Speech Bubble-->
+  <circle cx="330" cy="220" r="120" fill="#E83E9C"/>
+  <polygon points="410,300 450,350 380,330" fill="#E83E9C"/>
+<!--Black Foreground Circle-->
+  <circle cx="310" cy="200" r="120" fill="#000000"/>
+<!--W Letter-->
+  <text x="310" y="260" text-anchor="middle" font-family="'Comic Sans MS', 'Comic Sans', cursive" font-size="150" font-weight="bold" fill="#FFFFFF">
+    W
+  </text>
+<!--WORKSPHERE Text-->
+  <text x="300" y="400" text-anchor="middle" font-family="'Comic Sans MS', 'Comic Sans', cursive" font-size="60" font-weight="800" fill="#000000" letter-spacing="3">
+    WORKSPHERE
+  </text>
+<!--Tagline-->
+  <text x="300" y="450" text-anchor="middle" font-family="'Comic Sans MS', 'Comic Sans', cursive" font-size="32" font-weight="600" fill="#E83E9C" letter-spacing="6">
+    WORK.CHAT.CHILL
+  </text>
+</svg>
